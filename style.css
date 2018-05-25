@@ -1,0 +1,100 @@
+body {
+  /*font-family: sans-serif;*/
+  font-family: 'tajawal', monospace;
+  line-height: 1.4em;
+  text-align: left;
+  height: 100px;
+  background-color: #f2e6d9;
+}
+
+body header {
+	background-color: rgba(100, 40, 3, 0.8);
+	width: 400px;
+	box-sizing: border-box;
+	margin: 10px;
+
+}
+
+#button {
+	float: right;
+	color: yellow;
+	text-decoration: none;
+
+}
+
+article {
+	/* ccc */
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+h1 {
+	color: red;
+	font-size: 40px;
+	text-align: center;
+	text-decoration: Underline;
+
+}
+
+h2 {
+	color: black;
+	text-decoration: underline;
+}
+
+section {
+	display: block;
+	background-color: #be8241;
+	width: 400px;
+	box-sizing: border-box;
+	margin: 10px;
+	padding: 20px;
+
+	/*padding:2px 50px 2px 50px;
+	margin-top: 50px;
+	margin-right: 10px;
+	/*margin: auto;*/
+	/*border: 2px dashed black;*/
+}
+
+img {
+	border:3px dotted white;
+	height:200px;
+	width:200px;
+}
+
+header img {
+	width: 300px;
+	height: 300px;
+	border-top-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+}
+
+header p {
+	color: red;
+	font-family:'tajawal';
+	text-align: center;
+}
+
+p {
+	font-family: 'tajawal';
+
+}
+
+.sarcastic {
+	font-style: italic;
+	font-size: 20px;
+}
+
+#read {
+	font-size: 25px;
+	background-color: white;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
